@@ -1,3 +1,0 @@
-HOGE
-Hello!
-hogehoge
